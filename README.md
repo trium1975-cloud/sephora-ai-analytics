@@ -1,3 +1,18 @@
+<img width="949" height="526" alt="15_qna" src="https://github.com/user-attachments/assets/b0b929a5-f615-4ff8-b943-cbe88ffbc4de" />
+<img width="946" height="530" alt="14_action_plan" src="https://github.com/user-attachments/assets/99652537-e91b-491d-a83f-05347af66ad2" />
+<img width="2500" height="1407" alt="13_anova_stat" src="https://github.com/user-attachments/assets/79930478-4d85-45cf-8d25-fc199dc35ba1" />
+<img width="2500" height="1407" alt="12_service_value" src="https://github.com/user-attachments/assets/75eb9e8f-5b3c-439e-bc75-396001f0f850" />
+<img width="2500" height="1407" alt="11_section_serving" src="https://github.com/user-attachments/assets/6002a28a-7cfd-427d-8434-1bad0ebc4a5f" />
+<img width="950" height="532" alt="10_ai_matrix" src="https://github.com/user-attachments/assets/df89629a-379a-4707-b321-33616ad502eb" />
+<img width="2500" height="1407" alt="09_viral_insights" src="https://github.com/user-attachments/assets/92ee5760-ff13-4ad0-8edb-367fc154a0da" />
+<img width="951" height="533" alt="09_research_question" src="https://github.com/user-attachments/assets/fba9f235-77f6-4de8-b6ef-3b798492947c" />
+<img width="2500" height="1407" alt="07_core_finding" src="https://github.com/user-attachments/assets/e6c53b01-662b-4e90-a85f-83b081dd7809" />
+<img width="2500" height="1407" alt="06_data_integrity" src="https://github.com/user-attachments/assets/bdf74932-76b3-480a-b606-33ec716b4844" />
+<img width="2500" height="1407" alt="05_section_data" src="https://github.com/user-attachments/assets/c3dec5c1-32d2-43d6-867f-374f06de4d3f" />
+<img width="2500" height="1407" alt="04_our_goal" src="https://github.com/user-attachments/assets/24109f1e-460f-4b6d-b442-98091bff5964" />
+<img width="954" height="537" alt="03_overview" src="https://github.com/user-attachments/assets/cebb2cc4-21a7-4fab-92e5-d38af93373be" />
+<img width="954" height="534" alt="02_agenda" src="https://github.com/user-attachments/assets/8f47c3d1-be7a-4b87-9a92-908c9b433e1f" />
+<img width="955" height="534" alt="01_cover" src="https://github.com/user-attachments/assets/6e051575-6c1c-4427-97f2-d865b93b0bf4" />
 # 💄 Sephora E-Commerce AI Pricing Strategy & MD Simulator
 
 > **8,770건의 이커머스 실데이터 기반 가격대별 만족도 통계 검정(ANOVA), 4대 머신러닝 파이프라인 및 Gradio 의사결정 솔루션**
