@@ -14,7 +14,7 @@
 <br><br>
 <img src="07_core_finding.png" width="100%">
 <br><br>
-<img src="08_research_question.png" width="100%">
+<img src="09_research_question.png" width="100%">
 <br><br>
 <img src="09_viral_insights.png" width="100%">
 <br><br>
@@ -31,5 +31,3 @@
 <img src="15_qna.png" width="100%">
 
 </div>
-* **런타임 세션 재할당 대응**: 
-  * 원천 데이터 무결성 검증 및 전처리 복구 파이프라인을 단일 셀 내 원스톱 로직으로 설계하여 메모리 휘발 문제 차단
